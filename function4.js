@@ -23,7 +23,7 @@ function printHTML (html) {
 
 var requestOptions = {
   host: 'sytantris.github.io',
-  path: '/http-examples/step3.hmtl'
+  path: '/http-examples/step4.hmtl'
 };
 
 getHTML(requestOptions);
